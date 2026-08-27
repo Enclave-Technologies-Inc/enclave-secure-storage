@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Enclave-Inc/enclave-secure-storage"
+    "url": "https://github.com/Enclave-Technologies-Inc/enclave-secure-storage"
   },
   "engines": {
     "node": ">=20"
